@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=62220201)
+
 ### IreTheKID
 
 A 15-year-old anime fanatic proficient in Python and Ruby, with a little bit of knowledge in C++ and learning Node/JavaScript right now. I mainly do web developement with Flask or make Python tools for various purposes. Currently looking for a remote computer programming internship position anywhere! 
