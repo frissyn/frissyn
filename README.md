@@ -7,3 +7,4 @@ A 15-year-old anime fanatic proficient in Python and Ruby, with a little bit of 
 
 ###### I finally caved and decided to make a stats README, just like everyone else's T~T
 ![](https://hit.yhype.me/github/profile?user_id=62220201)
+
