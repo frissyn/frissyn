@@ -1,4 +1,5 @@
-### IreTheKID
+## frissyn
+###### I used to go by IreTheKID
 
 A 15-year-old anime fanatic proficient in Python and Ruby, with a little bit of knowledge in C++ (and trying to get better at JS / Node). I mostly do web developement with Flask or make Python tools for various purposes (API wrappers, Utility modules, etc.) I also make a lot of project related to and for [Repl.it](https://repl.it). I'm currently on the lookout for a remote software engineering internship to improve my skills and get real world experience. Have you ever [forked a potato](https://github.com/drtshock/Potato)? 'Cuz I have :)
 
