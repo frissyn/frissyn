@@ -2,10 +2,8 @@
 
 A 15-year-old anime fanatic proficient in Python, Ruby, and Crystal. I also know JS and C++, but I rarely use those in my projets. I'm currently on the lookout for a remote software engineering internship to improve my skills and get real world experience. Have you ever [forked a potato](https://github.com/drtshock/Potato)? 'Cuz I have :)
 
-|Languages:|<img src="https://img.icons8.com/color/48/000000/python.png"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/><img src="https://crystal-lang.org/assets/media/crystal_icon.svg" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>|
+|Languages:|<img src="https://github.com/smokes/vscode-discord-assets/blob/master/python.png?raw=true" width="64" height="64"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/ruby.png?raw=true" width="64" height="64"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/crystal.png?raw=true" width="64" height="64"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/js.png?raw=true" width="64" height="64"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/cpp.png?raw=true" width="64" height="64"/>|
 |:-:|:--|
-|**Frameworks:**|<img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" width="40" height="40"><img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" width="44" height="44"><img src="https://kemalcr.com/img/kemal.png" width="48" height="48">|
-|**Tools:**|<img src="https://img.icons8.com/windows/48/00bfff/rainmeter.png"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>|
 |**GitHub Stats:**|![](https://github-readme-stats.vercel.app/api?username=frissyn&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)|
 
 ![](https://hit.yhype.me/github/profile?user_id=62220201)
