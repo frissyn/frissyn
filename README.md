@@ -1,6 +1,6 @@
 ## frissyn
 
-A 16yo anime fanatic proficient in Python, Ruby, and Crystal. I also know JS and C++, but I rarely use those in my projets. I'm also also a multidisciplinary artist: graphic and motion design, illustration, old-school animation, sketchbooking, and the other 27 (yes, 27) hobbies I can't stick to.
+A 16yo anime fanatic proficient in Python, Ruby, and Crystal. I also know JS and C++, but I rarely use those in my projets. I'm also a multidisciplinary artist: graphic and motion design, illustration, old-school animation, sketchbooking, and the other 27 (yes, 27) hobbies I can't stick to.
 
 A lot of these GitHub READMEs are over saturated in SVG stuff, so here's a simple table with my top languages and GitHub stats.
 
