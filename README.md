@@ -1,6 +1,6 @@
 ## frissyn
 
-A 16yo anime fanatic proficient in Python, Ruby, and Crystal. I also know JS and C++, but I rarely use those in my projets (Fun fact: I really really don't like writing C++ code, maybe I'm just not a static language guy who knows =P). I'm currently on the lookout for a remote software engineering internship to improve my skills and get real world experience. Have you ever [forked a potato](https://github.com/drtshock/Potato)? 'Cuz I have :)
+A 16yo anime fanatic proficient in Python, Ruby, and Crystal. I also know JS and C++, but I rarely use those in my projets. I'm also also a multidisciplinary artist: graphic and motion design, illustration, old-school animation, sketchbooking, and the other 27 (yes, 27) hobbies I can't stick to.
 
 A lot of these GitHub READMEs are over saturated in SVG stuff, so here's a simple table with my top languages and GitHub stats.
 
@@ -9,3 +9,5 @@ A lot of these GitHub READMEs are over saturated in SVG stuff, so here's a simpl
 |**GitHub Stats:**|![](https://github-readme-stats.vercel.app/api?username=frissyn&count_private=true&theme=outrun&show_icons=true&include_all_commits=true&hide=issues)|
 
 ![](https://hit.yhype.me/github/profile?user_id=62220201)
+
+*P.S. - Have you ever [forked a potato](https://github.com/drtshock/Potato)?*
