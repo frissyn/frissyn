@@ -1,6 +1,8 @@
-## frissyn
+## frissyn [![Discord Chat](https://img.shields.io/badge/discord-join-7389D8?logo=discord)](https://discord.gg/b3qjk4epPr) [![](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/frissyn)
 
-A 16yo anime fanatic from Maryland proficient in Python, Ruby, and Crystal. I also know JS and C++, but I rarely use those in my projets. I'm also an aspiring artist of all kinds: graphic and motion design, illustration, animation, sketchbooking, etc. Going where ever my hyperfixations take me!
+A 16yo anime fanatic from Maryland proficient in Python, Ruby, and Crystal. I've also learned JavaScript, C++, and Lua, but I only use those when I need to =P
+
+I'm an artist creating tools and applications for programmers and creatives alike. The projects I make range from [API wrappers](https://github.com/frissyn/valorant.py), to [game mods and documentation](https://github.com/frissyn/celeste-saves), to [developement tools](https://github.com/frissyn/pyke), and a bit more. Check out my pinned reopsitories! 
 
 A lot of these GitHub READMEs are over saturated in SVG stuff, so here's a simple table with my top languages and GitHub stats.
 
