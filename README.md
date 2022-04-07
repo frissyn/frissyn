@@ -1,4 +1,4 @@
-## frissyn [![Discord Chat](https://img.shields.io/badge/discord-join-7389D8?logo=discord)](https://discord.gg/b3qjk4epPr) [![](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/frissyn)
+## frissyn [![Discord Chat](https://img.shields.io/badge/discord-join-7389D8?logo=discord&style=flat-square)](https://discord.gg/b3qjk4epPr) [![](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat-square)](https://ko-fi.com/frissyn)
 
 A 16yo anime fanatic from Maryland proficient in Python, Ruby, and Crystal. I've also learned JavaScript, C++, Lua, and SourcePawn, but I only use those when I need to =P
 
