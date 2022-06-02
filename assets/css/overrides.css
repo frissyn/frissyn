@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply rounded-md
+}
+
+.rounded-box {
+  @apply rounded-md
+}
+
+li {
+  @apply rounded-md
+}
