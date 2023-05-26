@@ -2,7 +2,9 @@
 
 A high school anime fanatic from Maryland proficient in Python, Ruby, and Crystal. I've also learned JavaScript, C++, Lua, and SourcePawn, but I only use those when I need to =P
 
-I'm an artist creating tools and applications for programmers and creatives alike. The projects I make range from [API wrappers](https://github.com/frissyn/valorant.py), to [game mods and documentation](https://github.com/frissyn/celeste-saves), to [developement tools](https://github.com/frissyn/pyke), and a bit more. Check out my pinned repositories! 
+I'm an artist creating tools and applications for programmers and creatives alike. The projects I make range from [API wrappers](https://github.com/frissyn/valorant.py), to [game mods and documentation](https://github.com/frissyn/celeste-saves), to [developement tools](https://github.com/frissyn/pyke), and a bit more. Check out my pinned repositories!
+
+**Curently less active maintaining software projects and programming in general while I focus on art and college.
 
 A lot of these GitHub READMEs are over saturated in SVG stuff, so here's a simple table with my top languages and GitHub stats.
 
